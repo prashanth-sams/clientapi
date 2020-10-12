@@ -1,0 +1,14 @@
+.idea/
+venv/
+.DS_Store
+*/**/.DS_Store
+*/.DS_Store
+.pytest_cache/
+client_api/__pycache__/
+pytest_html_reporter.egg-info/
+tests/__pycache__/
+dist/
+report/
+__pycache__/
+.coverage
+coverage.xml
