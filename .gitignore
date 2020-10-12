@@ -5,7 +5,7 @@ venv/
 */.DS_Store
 .pytest_cache/
 client_api/__pycache__/
-pytest_html_reporter.egg-info/
+client_api.egg-info/
 tests/__pycache__/
 dist/
 report/
