@@ -12,7 +12,7 @@ def read(fname):
 
 
 setup(
-    name="client-api",
+    name="clientapi",
     version="0.0.1",
     author="Prashanth Sams",
     author_email="sams.prashanth@gmail.com",

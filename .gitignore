@@ -4,8 +4,8 @@ venv/
 */**/.DS_Store
 */.DS_Store
 .pytest_cache/
-client_api/__pycache__/
-client_api.egg-info/
+clientapi/__pycache__/
+clientapi.egg-info/
 tests/__pycache__/
 dist/
 report/
