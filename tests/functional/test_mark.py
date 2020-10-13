@@ -1,6 +1,9 @@
 import pytest
-import clientapi
+import clientapi as api
+
 
 @pytest.mark.slow
 def test_fixture_pass():
-    assert 5 == 5
+    k = api.get('https://reqres.in/api/users?page=2')
+    assert k.status == 200
+    print(k._body)

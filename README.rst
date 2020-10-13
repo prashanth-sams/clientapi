@@ -1,5 +1,5 @@
 =====================
-client-api
+clientapi
 =====================
 
-        HTTP REST API client for testing APIs based on the pytest framework that binds a complete api automation framework setup within itself
+        HTTP REST API client for testing APIs that binds a complete api automation framework setup within itself
